@@ -1,2 +1,2 @@
-# ball
+# Ball
 My first coding project.
